@@ -1654,7 +1654,7 @@
 			"option-contact-support": "اتصل بالدعم",
 			"option-contact-support-desc": "إذا واجهت أي مشاكل مع Obsidian Sync، يرجى الاتصال بنا حتى نتمكن من مساعدتك! يمكنك الوصول إلينا على support@obsidian.md.",
 			"button-email-support": "الدعم عن طريق البريد الإلكتروني",
-			"msg-remote-vault-limit-hit": "Obsidian Sync lets you create up to 5 remote vaults. In order to create a new remote vault, please remove an existing one."
+			"msg-remote-vault-limit-hit": "Obsidian Sync يسمح لك بإنشاء خمسة قبوات غير محلية كحد أقصى. لكي تنشأ قبو غير محلي جديد، الرجاء حذف قبو سابق."
 		},
 		"file-recovery": {
 			"name": "استعادة الملفات",
